@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="everest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="everest.war">
+      <element id="artifact" artifact-name="everest:war exploded" />
+    </root>
+  </artifact>
+</component>
